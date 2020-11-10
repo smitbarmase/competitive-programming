@@ -1,5 +1,5 @@
 # **Competitve Programming**
-## Based on the "Competitive Programmer's Handbook"
+_Based on the "Competitive Programmer's Handbook"_
 
 ### **C++ code template**
 A typical C++ code template for competitive programming looks like this:
@@ -22,13 +22,6 @@ lines at the beginning of the code make input and output more efficient:
 ```
 ios::sync_with_stdio(0);
 cin.tie(0);
-```
-
-If the amount of data is unknown, the following loop is useful:
-```
-while (cin >> x) {
-    // code
-}
 ```
 
 ### **Index**
